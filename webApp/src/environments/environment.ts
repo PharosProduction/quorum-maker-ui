@@ -1,4 +1,4 @@
 export const environment = {
   production: false,  
-  nodeURL: '/'
+  nodeURL: 'http://52.215.66.171:8000/'
 };
